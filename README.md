@@ -1,11 +1,11 @@
-# Personal Website Resume for Computer Science 
+# Personal Website Resume Which I have created for myself
 
 
-Edited by Sunwoo Kang
+Edited by Mohammed Abdul Rahman
 Merged CEEVEE with KARDS from Styleshouts :) 
 
 
-For any questions on starting a personal website for resume, please contact swkang73@stanford.edu / sunnybd97@gmail.com. 
+For any questions on starting a personal website for resume, please contact rehmanz1446@gmail.com
 
 SOURCES AND CREDITS:
 
